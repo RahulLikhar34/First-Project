@@ -13,4 +13,5 @@ Below are some of the images the project i have created.
 
 ![image](https://github.com/RahulLikhar34/Tech-Project/assets/109016660/c9347e5c-8e56-40f4-87b4-4ccf5e6f086f)
 
-![image](https://github.com/RahulLikhar34/Tech-Project/assets/109016660/0c41ba55-f0b7-4582-8b93-8d4d22f3fe37)
+![image](https://github.com/RahulLikhar34/Tech-Project/assets/109016660/63ec62c9-13f8-48fc-816b-50ee58f1038c)
+
